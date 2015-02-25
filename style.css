@@ -3,11 +3,22 @@ h1,h2{
 }
 body{
     font-family: "Open Sans",sans-serif;
-    color: DarkBlue;
+    color: White;
     margin: 10px 50px 10px 50px;
-    background-color: Ivory;
+    background-color: black;
+
 }
-img{
+
+
+.left{
     float: left;
-    margin-right: 10px;
+    width: 300px;
+}
+.right{
+    float: right;
+    width: 300px;
+}
+.center{
+    margin-left: 300px;
+    margin-right: 300px;
 }
