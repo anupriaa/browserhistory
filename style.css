@@ -1,7 +1,7 @@
 h1,h2{
     font-family: Oswald;
 }
-p{
+body{
     font-family: "Open Sans";
     color: DarkBlue;
     margin: 10px 50px 10px 50px;
@@ -9,4 +9,5 @@ p{
 }
 img{
     float: left;
+    margin-right: 10px;
 }
