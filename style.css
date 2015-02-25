@@ -11,3 +11,26 @@ img{
     float: left;
     margin-right: 10px;
 }
+
+.left{
+    float: left;
+    width: 33.3%;
+}
+.right{
+    float: right;
+    width: 33.3%;
+}
+.center{
+    margin-left: 33.3%;
+    margin-right: 33.3%;
+}
+#navbar ul{
+    list-style-type: none;
+}
+#navbar li{
+    display: inline;
+}
+#navbar a{
+    margin-left: 75px;
+    margin-right: 75px;
+}
