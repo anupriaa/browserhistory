@@ -22,3 +22,7 @@ body{
     margin-left: 300px;
     margin-right: 300px;
 }
+#image {
+    float: left;
+    margin: 10px;
+}
