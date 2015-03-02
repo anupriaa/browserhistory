@@ -1,75 +1,15 @@
+body {
+  padding-top: 50px;  /* Move body of page below navbar. */
+}
 
-h1,h2{
-    font-family: Oswald,sans-serif;
+.page-content {
+  padding: 10px;
+  text-align: center;
 }
-body{
-    font-family: "Open Sans",sans-serif;
-    color: White;
-    margin: 10px 50px 10px 50px;
-    background-color: black;
-    font-weight: bold;
-    font-size: larger;
 
-}
-<<<<<<< HEAD
-.left{
-    float: left;
-    width: 300px;
-    padding: 1em;
-
-}
-.right{
-    float: right;
-    width: 300px;
-    padding: 1em;
-
-}
-.center{
-    margin-left: 300px;
-    margin-right: 300px;
-    width: 300px;
-    padding: 1em;
-    
-}
-#image {
-    float: left;
-    margin: 10px;
-}
-=======
 img {
-    float: left;
-    margin-right: 10px;
-}
-img{
-    float: right;
-    margin-right: 10px;
-}
-.left {
-    float: left;
-    width: 33.3%;
-    padding: 1em;
-}
-.right {
-    float: right;
-    width: 33.3%;
-    padding: 1em;
-}
-.center{
-    margin-left: 33.3%;
-    margin-right: 33.3%;
-    padding: 1em;
-}
-#navbar ul{
-    list-style-type: none;
-    margin: 0px;
-    padding: 0px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto
 }
 
-#navbar li{
-    display: inline;
-}
-#navbar a{
-    margin-left: 75px;
-    margin-right: 75px;
-}
->>>>>>> origin/columns-2
